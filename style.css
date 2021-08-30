@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#posts{
+    text-align: left;
+    padding-left: 10px;
+}
+#input{
+    background-image: url("1.png");
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.inputs{
+    width: 80%;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+#Postbtn{
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 150px;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: orange;
+}
